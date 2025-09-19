@@ -40,8 +40,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh1480&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1480&layout=compact&theme=tokyonight)
+![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh1480&show_icons=true&theme=dracula&hide_border=true&border_radius=10&line_height=28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh1480&layout=compact&theme=dracula&hide_border=true&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com/?user=utkarsh1480&theme=tokyonight&hide_border=true&border_radius=10)
+![Utkarsh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh1480&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![snake animation](https://github.com/utkarsh1480/utkarsh1480/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
